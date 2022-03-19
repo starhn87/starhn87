@@ -13,14 +13,15 @@
 - Better UI/UX
 - Javascript, Typescript
 - ReactJS, NextJS
-
+  
 <div align=center>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=starhn87)](https://github.com/anuraghazra/github-readme-stats)
 <div>
-  
+
 <div align=center>
   
 [![Tech Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=velog&link=https://velog.io/@dkdlel102)](https://velog.io/@dkdlel102)
+[![Notion Badge](http://img.shields.io/badge/-Notion-white?style=flat-square&logo=Notion&logoColor=black&link=https://www.notion.so/realman/Jimmy-d0f1d7dec7b247e58947d2bcd4f58dab)](https://www.notion.so/realman/Jimmy-d0f1d7dec7b247e58947d2bcd4f58dab)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:starhn87@gmail.com)](mailto:starhn87@gmail.com)
 </div>
