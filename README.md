@@ -1,5 +1,5 @@
 <div align=center>
-  
+
 ### 사용자가 감탄하는 서비스를 만들고 싶은 프론트엔드 개발자 이승우입니다 😁
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -10,7 +10,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=starhn87)](https://github.com/anuraghazra/github-readme-stats)
+![Metrics](https://github.com/starhn87/starhn87/blob/main/github-metrics.svg)
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=velog&link=https://velog.io/@dkdlel102)](https://velog.io/@dkdlel102)
 [![Notion Badge](http://img.shields.io/badge/-Notion-white?style=flat-square&logo=Notion&logoColor=black&link=https://www.notion.so/realman/Jimmy-d0f1d7dec7b247e58947d2bcd4f58dab)](https://www.notion.so/realman/Jimmy-d0f1d7dec7b247e58947d2bcd4f58dab)
