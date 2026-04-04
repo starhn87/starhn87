@@ -10,7 +10,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-[![GitHub stats](https://github-readme-stats-starhn87s-projects.vercel.app/api?username=starhn87&theme=tokyonight&show_icons=true&rank_icon=default)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats-starhn87s-projects.vercel.app/api?username=starhn87&theme=tokyonight&show_icons=true&rank_icon=default&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=velog&link=https://velog.io/@dkdlel102)](https://velog.io/@dkdlel102)
 [![Notion Badge](http://img.shields.io/badge/-Notion-white?style=flat-square&logo=Notion&logoColor=black&link=https://www.notion.so/realman/Jimmy-d0f1d7dec7b247e58947d2bcd4f58dab)](https://www.notion.so/realman/Jimmy-d0f1d7dec7b247e58947d2bcd4f58dab)
