@@ -1,6 +1,6 @@
 <div align=center>
 
-### 사용자가 감탄하는 서비스를 만들고 싶은 프론트엔드 개발자 이승우입니다 😁
+### 사용자가 감탄하는 서비스를 추구하는 개발자 이승우입니다 😁
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
