@@ -1,6 +1,6 @@
 <div align=center>
 
-### 사용자가 감탄하는 서비스를 추구하는 개발자 이승우입니다 😁
+### 개발자 이승우입니다 😁 <br /> 빠르고 가벼우면서도 사용자의 니즈를 관통하는 서비스를 추구합니다.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
