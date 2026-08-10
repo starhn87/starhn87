@@ -14,7 +14,7 @@
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-[![GitHub stats](https://github-readme-stats-starhn87s-projects.vercel.app/api?username=starhn87&theme=tokyonight&show_icons=true&rank_icon=default&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats-starhn87s-projects.vercel.app/api?username=starhn87&theme=tokyonight&show_icons=true&rank_icon=default&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-starhn87s-projects.vercel.app/api/top-langs/?username=starhn87&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Blog](https://img.shields.io/badge/Blog-3e6f93?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI%2BPHBhdGggZD0iTTMyIDU0IEwxNCAxMyBNMzIgNTQgTDMyIDkgTTMyIDU0IEw1MCAxMyIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2Utd2lkdGg9IjUiIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjxjaXJjbGUgY3g9IjMyIiBjeT0iNTQiIHI9IjUiIGZpbGw9IiNmZmZmZmYiLz48Y2lyY2xlIGN4PSIxNCIgY3k9IjEzIiByPSI1IiBmaWxsPSIjZmZmZmZmIi8%2BPGNpcmNsZSBjeD0iMzIiIGN5PSI5IiByPSI1IiBmaWxsPSIjZmZmZmZmIi8%2BPGNpcmNsZSBjeD0iNTAiIGN5PSIxMyIgcj0iNSIgZmlsbD0iI2ZmZmZmZiIvPjwvc3ZnPg%3D%3D)](https://www.seung-woo.me)
